@@ -1,2 +1,25 @@
 @charset "UTF-8";
 
+p.c2 {
+	display: inline;
+	box-sizing: content-box;
+	border: 5px solid grey;
+}
+
+img {
+	border: 5px solid grey;
+	margin-top: 10px;
+}
+
+.imgmovida{
+	position:relative;
+	left:-20px;
+}
+
+p.c3 {
+	display: inline-block;
+	box-sizing: content-box;
+	border: 5px solid grey;
+	height: 100px;
+	width: 200px;
+}
